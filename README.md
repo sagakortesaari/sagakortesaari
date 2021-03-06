@@ -1,4 +1,6 @@
 ### Hi there 👋
 
 I'm Saga!
-- Computer Science Student @ Chalmers University of Technology
+
+📚 Computer Science & Engineering student @ Chalmers University of Technology
+
